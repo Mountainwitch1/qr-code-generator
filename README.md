@@ -15,5 +15,5 @@ An offline QR code generator built with Python.
 Usage
 
 Run the script to generate QR codes:
-
+![Image](https://github.com/user-attachments/assets/e53e0ef9-7486-4171-a37a-735d7ad9df56)
    
